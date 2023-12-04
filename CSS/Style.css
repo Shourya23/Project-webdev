@@ -291,4 +291,19 @@ html{
     .Form{
         text-align: center;
     }
+    
+    .scroll-btn{
+        
+        flex-direction: column;
+        text-align: center;  
+        border: 2px solid white;
+        margin: 19px 3px;
+        padding: 2px 4px;
+        height: 50px;
+        width: 47px;
+        border-radius: 40px;
+        right: 5%;
+        bottom: 2%;
+
+    }
 }
